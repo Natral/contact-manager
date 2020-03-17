@@ -1,4 +1,6 @@
 .env.backup
+_ide_helper.php
+vendor/*
 
 # Created by https://www.gitignore.io/api/phpstorm,laravel
 # Edit at https://www.gitignore.io/?templates=phpstorm,laravel
