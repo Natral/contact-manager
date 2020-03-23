@@ -1,6 +1,7 @@
 .env.backup
 _ide_helper.php
 vendor/*
+public/contact_avatars/*
 
 # Created by https://www.gitignore.io/api/phpstorm,laravel
 # Edit at https://www.gitignore.io/?templates=phpstorm,laravel
